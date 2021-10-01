@@ -1,3 +1,3 @@
 # Stuff
 
-[MY Game Poster ](https://github.com/JacksterC/Stuff/blob/main/Poster.png)
+[My Game Poster ](https://github.com/JacksterC/Stuff/blob/main/Poster.png)
